@@ -45,7 +45,8 @@ var (
 )
 
 func main() {
-	fmt.Println("A Command-line Steganography Utility.")
+	fmt.Println("nSteg v1.")
+	fmt.Println("command-line steganography utility.")
 
 	// Precheck:
 	/* Flags and Arguments ************************************************************
