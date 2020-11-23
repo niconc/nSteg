@@ -34,8 +34,15 @@ _test
 tmp/
 sqs-examples/
 .vscode/
+messages/
+images/
 
 # Files
 scratch.txt
+sloth-facts.go
+
+# Extensions
+*.back
 
 # Don't include our binary
+nSteg
